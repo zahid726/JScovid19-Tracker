@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.left{
+    width: 50%;
+    background-color: aquamarine;
+
+
+}
+.right{
+    width: 50%;
+    margin: 5px;
+    background-color: lightgreen;
+}
+ul{
+    list-style: none;
+    font-size: 1.5rem;
+
+}
+span{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+h2{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+}
